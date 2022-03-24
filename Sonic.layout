@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="ball.cpp" Top="No" Tabpos="4" TopLine="124">
+			<Cursor Line="149" Column="25"/>
+		</File>
+		<File Name="nucleo.cpp" Top="No" Tabpos="5" TopLine="91">
+			<Cursor Line="149" Column="116"/>
+		</File>
+		<File Name="nucleo.h" Top="No" Tabpos="6" TopLine="19">
+			<Cursor Line="43" Column="36"/>
+		</File>
+	</Files>
+</Layout>

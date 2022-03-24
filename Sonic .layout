@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="3" Column="19"/>
+		</File>
+		<File Name="ambiente.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="27" Column="9"/>
+		</File>
+		<File Name="sonic.h" Top="No" Tabpos="3" TopLine="11">
+			<Cursor Line="46" Column="7"/>
+		</File>
+		<File Name="nucleo.h" Top="No" Tabpos="4" TopLine="24">
+			<Cursor Line="31" Column="1"/>
+		</File>
+		<File Name="plataforma.h" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="15" Column="2"/>
+		</File>
+		<File Name="bloco.h" Top="No" Tabpos="6" TopLine="1">
+			<Cursor Line="1" Column="14"/>
+		</File>
+		<File Name="mtimer.h" Top="No" Tabpos="7" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="gerror.h" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="krandom.h" Top="No" Tabpos="9" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="nucleo.cpp" Top="Yes" Tabpos="10" TopLine="1">
+			<Cursor Line="126" Column="2"/>
+		</File>
+	</Files>
+</Layout>
